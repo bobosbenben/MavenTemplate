@@ -1,1 +1,1 @@
-this is the first line
+这是我用命令行建立的一个Maven模板，其他任何用到Maven的程序都可以从这里开始开发
